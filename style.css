@@ -1,0 +1,27 @@
+body{
+    font-family:  monospace;
+    background-image: url('painting-mountain-lake-with-mountain-background_188544-9126.jpg');
+    max-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.log{
+    color:#fff;
+}
+
+.container{
+    width: 400px;
+    height: auto;
+    padding: 1rem;
+    border: 1px solid whitesmoke;
+    border-radius: 15px;
+    flex-direction: column;
+    background-color: #ffffff2e;
+}
